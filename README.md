@@ -1,3 +1,19 @@
+---
+---
+---
+
+# This library is no longer being developed and *does not* work with the latest version of MongoDB
+
+# Check out my new library - MongoQB - https://github.com/alexbilbie/MongoQB
+
+---
+---
+---
+
+
+
+
+
 # Version 2 of this library is being actively developed
 
 ### Please visit [https://github.com/alexbilbie/codeigniter-mongodb-library/tree/v2](https://github.com/alexbilbie/codeigniter-mongodb-library/tree/v2)
