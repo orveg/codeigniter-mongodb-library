@@ -10,7 +10,7 @@
 ---
 ---
 
-# CodeIgniter MongoDB Library
+## CodeIgniter MongoDB Library
 
 This is an active record inspired CodeIgniter library to integrate a MongoDB database into your application.
 
