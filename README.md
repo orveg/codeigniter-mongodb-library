@@ -1,15 +1,3 @@
----
----
----
-
-# This library is no longer being developed and *does not* work with the latest version of MongoDB
-
-# Check out my new library - MongoQB - https://github.com/alexbilbie/MongoQB
-
----
----
----
-
 ## CodeIgniter MongoDB Library
 
 This is an active record inspired CodeIgniter library to integrate a MongoDB database into your application.
