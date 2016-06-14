@@ -77,3 +77,7 @@ The result will be an object containing matching documents.
 ## Collection Functions
 
 * `drop_collection`		Drops a collection
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/orveg/codeigniter-mongodb-library/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
